@@ -31,7 +31,7 @@ This project focuses on sentiment analysis of restaurant reviews using machine l
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![System Architecture](<C:\Users\ASUS\Downloads\SEC_IT_PROJECT_PHASE_2-main\SEC_IT_PROJECT_PHASE_2-main\negative.png>)
+![System Architecture]([<C:\Users\ASUS\Downloads\SEC_IT_PROJECT_PHASE_2-main\SEC_IT_PROJECT_PHASE_2-main\negative.png>](https://github.com/ChandhuruS/SEC_IT_PROJECT_PHASE_2/blob/main/system%20architecture%20draw1.png))
 
 ## Output
 
