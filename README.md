@@ -40,7 +40,7 @@ This project focuses on sentiment analysis of restaurant reviews using machine l
 ![Positive output](<C:\Users\ASUS\Downloads\SEC_IT_PROJECT_PHASE_2-main\SEC_IT_PROJECT_PHASE_2-main\negative.png>)
 
 #### Output2 - Ouput of negative review
-![Negative output](<[C:\Users\ASUS\Downloads\SEC_IT_PROJECT_PHASE_2-main\SEC_IT_PROJECT_PHASE_2-main\negative.png](https://github.com/ChandhuruS/SEC_IT_PROJECT_PHASE_2/blob/main/negative.png)>)
+![Negative output](<C:\Users\ASUS\Downloads\SEC_IT_PROJECT_PHASE_2-main\SEC_IT_PROJECT_PHASE_2-main\negative.png](https://github.com/ChandhuruS/SEC_IT_PROJECT_PHASE_2/blob/main/negative.png)>)
 
 
 
