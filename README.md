@@ -31,7 +31,7 @@ This project focuses on sentiment analysis of restaurant reviews using machine l
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![System architecure](<system architecture draw1.png>)
 
 
 ## Output
@@ -39,11 +39,10 @@ This project focuses on sentiment analysis of restaurant reviews using machine l
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![Positive output](positive.png)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
+![Negative output](negative.png)
 
 
 
@@ -51,8 +50,8 @@ This project focuses on sentiment analysis of restaurant reviews using machine l
 <!--Give the results and impact as shown below-->
 The Support Vector Classifier (SVC) model trained on the Restaurant Reviews Dataset achieved high accuracy. This model enables accurate sentiment analysis of restaurant reviews, providing valuable insights into customer opinions. Additionally, a user-friendly interface was developed to facilitate real-time sentiment analysis.
 
-Enables restaurant owners to improve customer satisfaction and business performance.
-Empowers customers to make informed dining decisions based on sentiment analysis.
+- Enables restaurant owners to improve customer satisfaction and business performance.
+- Empowers customers to make informed dining decisions based on sentiment analysis.
 
 
 
