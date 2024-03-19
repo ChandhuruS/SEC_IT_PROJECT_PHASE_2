@@ -31,16 +31,16 @@ This project focuses on sentiment analysis of restaurant reviews using machine l
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![System Architecture]([<C:\Users\ASUS\Downloads\SEC_IT_PROJECT_PHASE_2-main\SEC_IT_PROJECT_PHASE_2-main\negative.png>](https://github.com/ChandhuruS/SEC_IT_PROJECT_PHASE_2/blob/main/system%20architecture%20draw1.png))
+![system architecture draw1](https://github.com/ChandhuruS/SEC_IT_PROJECT_PHASE_2/assets/123381860/f7dc6bf0-0303-419b-ab62-f99b0aa9f94f)
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Output of positive review
-![Positive output](<C:\Users\ASUS\Downloads\SEC_IT_PROJECT_PHASE_2-main\SEC_IT_PROJECT_PHASE_2-main\negative.png>)
+![Screenshot (136)](https://github.com/ChandhuruS/SEC_IT_PROJECT_PHASE_2/assets/123381860/78198179-abb4-442e-beb3-a2dbebc0812e)
 
 #### Output2 - Ouput of negative review
-![Negative output](<C:\Users\ASUS\Downloads\SEC_IT_PROJECT_PHASE_2-main\SEC_IT_PROJECT_PHASE_2-main\negative.png](https://github.com/ChandhuruS/SEC_IT_PROJECT_PHASE_2/blob/main/negative.png)>)
+![Screenshot (137)](https://github.com/ChandhuruS/SEC_IT_PROJECT_PHASE_2/assets/123381860/2e1290bb-858b-4e90-907e-44f088a8e795)
 
 
 
