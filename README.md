@@ -53,7 +53,7 @@ The Support Vector Classifier (SVC) model trained on the Restaurant Reviews Data
 - Empowers customers to make informed dining decisions based on sentiment analysis.
 
 
-## Referneces
+## Refereneces
 [1]	M. Govindarajan, “Sentiment Analysis of Restaurant Reviews Using Hybrid Classification Method”, IRF International Conference, 9 th February 2014, Chennai India. ISBN: 978-93-82702-57-3. https://www.digitalxplore.org/up_proc/pdf/46-1393322636127-133.pdf.
 
 [2]	Kulkarni, Atharva, Divya Bhandari, and Sachin Bhoite. “Restaurants Rating Prediction Using Machine Learning Algorithms.” International Journal of Computer Applications Technology and Research 8, no. 9 (September 17, 2019): 377–78. https://doi.org/10.7753/ijcatr0809.1008.
